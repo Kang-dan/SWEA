@@ -1,2 +1,2 @@
 # SWEA
-SW Expert Academy problem 코딩연습
+SW Expert Academy problem
